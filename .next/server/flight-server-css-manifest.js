@@ -1,0 +1,18 @@
+self.__RSC_CSS_MANIFEST={
+  "cssImports": {
+    "/Users/parvin/Desktop/nextjs-stripe/app/layout.tsx": [
+      "/Users/parvin/Desktop/nextjs-stripe/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "/Users/parvin/Desktop/nextjs-stripe/app/globals.css"
+    ]
+  },
+  "cssModules": {
+    "/Users/parvin/Desktop/nextjs-stripe/app/page": [
+      "/Users/parvin/Desktop/nextjs-stripe/app/globals.css",
+      "/Users/parvin/Desktop/nextjs-stripe/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
+    "/Users/parvin/Desktop/nextjs-stripe/app/success/page": [
+      "/Users/parvin/Desktop/nextjs-stripe/app/globals.css",
+      "/Users/parvin/Desktop/nextjs-stripe/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ]
+  }
+}
